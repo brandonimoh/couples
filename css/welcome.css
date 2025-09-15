@@ -1,4 +1,6 @@
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
   padding-top: 3.5rem;
+  background-color: #f9f9f9; /* Added a light background color */
+  font-family: 'Segoe UI', Arial, sans-serif; /* Changed font */
 }
